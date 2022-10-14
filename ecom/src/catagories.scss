@@ -1,0 +1,16 @@
+.catagories{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+    .catagory-container{
+        background-color: #61dafb;
+        padding: 20px;
+        .catagory-body{
+            background-color: #3bd569;
+            padding: 30px;
+          }
+      }
+}
